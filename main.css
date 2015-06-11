@@ -1,3 +1,14 @@
-* {
+body {
   background-color: teal;
+  transition: all .2s ease-in-out;
+}
+
+#time {
+
+  font-size: 5em;
+  color: white;
+  width: 80%;
+  display: block;
+  margin: 20px auto;
+  text-align: center;
 }
